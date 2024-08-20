@@ -23,9 +23,12 @@
                         <i class="fa-solid fa-server text-slate-600"></i>
                     </div>
                     <div class="grow">
-                        <select name="" id="">
+                        <select name="" id="" class="w-full bg-transparent">
                             <option value="">
-
+                                category
+                            </option>
+                            <option value="">
+                                option-1
                             </option>
                         </select>
                     </div>

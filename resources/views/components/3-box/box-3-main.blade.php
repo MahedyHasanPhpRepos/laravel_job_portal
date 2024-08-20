@@ -4,7 +4,7 @@
             <div class="flex items-center justify-between">
                 <div class="flex items-center">
                     <div class="size-14 flex items-center justify-center bg-white dark:bg-slate-900 shadow dark:shadow-gray-700 rounded-md">
-                        <img src="assets/images/company/facebook-logo.png" class="size-8" alt="">
+                        <img src="https://img.freepik.com/free-vector/corporate-letter-m-logo-design-icon-friendly-ribbon_126523-867.jpg?w=740&t=st=1724141583~exp=1724142183~hmac=bf0b49cf2882c3fa6bbbd42137c331e1a3257ea7b36d77f2c9fd79bc74925502" class="size-8" alt="">
                     </div>
 
                     <div class="ms-3">
@@ -29,7 +29,7 @@
         </div>
 
 
-        <div class="group shadow  p-6 rounded-md bg-white">
+        <!-- <div class="group shadow  p-6 rounded-md bg-white">
             <div class="flex items-center justify-between">
                 <div class="flex items-center">
                     <div class="size-14 flex items-center justify-center bg-white dark:bg-slate-900 shadow dark:shadow-gray-700 rounded-md">
@@ -84,7 +84,7 @@
                     <span class="text-slate-400 text-sm"><span class="text-slate-900 dark:text-white font-semibold inline-block">21 applied</span> of 40 vacancy</span>
                 </div>
             </div>
-        </div>
+        </div> -->
 
 
 
@@ -92,7 +92,7 @@
             <div class="flex items-center justify-between">
                 <div class="flex items-center">
                     <div class="size-14 flex items-center justify-center bg-white dark:bg-slate-900 shadow dark:shadow-gray-700 rounded-md">
-                        <img src="assets/images/company/facebook-logo.png" class="size-8" alt="">
+                        <img src="https://img.freepik.com/free-vector/w-initial-gradient-colorful-logo-design_343694-1759.jpg?w=740&t=st=1724141619~exp=1724142219~hmac=bc6a11dc6f7de2bca905082865d65682a34fc294e8472f836193431e4f0f09ae" class="size-8" alt="">
                     </div>
 
                     <div class="ms-3">
@@ -121,7 +121,7 @@
             <div class="flex items-center justify-between">
                 <div class="flex items-center">
                     <div class="size-14 flex items-center justify-center bg-white dark:bg-slate-900 shadow dark:shadow-gray-700 rounded-md">
-                        <img src="assets/images/company/facebook-logo.png" class="size-8" alt="">
+                        <img src="https://img.freepik.com/free-vector/gradient-mm-logo-template_23-2149243579.jpg?w=740&t=st=1724141696~exp=1724142296~hmac=527daae44eec8553785daab0869b54130d19496c7b0c487ef1923830450d1c02" class="size-8" alt="">
                     </div>
 
                     <div class="ms-3">
@@ -151,7 +151,7 @@
             <div class="flex items-center justify-between">
                 <div class="flex items-center">
                     <div class="size-14 flex items-center justify-center bg-white dark:bg-slate-900 shadow dark:shadow-gray-700 rounded-md">
-                        <img src="assets/images/company/facebook-logo.png" class="size-8" alt="">
+                        <img src="https://cdn.freebiesupply.com/logos/large/2x/airbnb-2-logo-png-transparent.png" class="size-8" alt="">
                     </div>
 
                     <div class="ms-3">

@@ -17,7 +17,7 @@
 
                                 <div>
                                     <label class="font-semibold">Categories</label>
-                                    <select class="form-select form-input border border-slate-100 dark:border-slate-800 block w-full mt-1">
+                                    <select class="bg-transparent form-select form-input border border-slate-100 dark:border-slate-800 block w-full mt-1">
                                         <option value="WD">Web Designer</option>
                                         <option value="WD">Web Developer</option>
                                         <option value="UI">UI / UX Desinger</option>
@@ -26,7 +26,7 @@
 
                                 <div>
                                     <label class="font-semibold">Location</label>
-                                    <select class="form-select form-input border border-slate-100 dark:border-slate-800 block w-full mt-1">
+                                    <select class="bg-transparent form-select form-input border border-slate-100 dark:border-slate-800 block w-full mt-1">
                                         <option value="NY">New York</option>
                                         <option value="MC">North Carolina</option>
                                         <option value="SC">South Carolina</option>
@@ -125,7 +125,8 @@
                             <div class="flex items-center justify-between">
                                 <div class="flex items-center">
                                     <div class="size-14 flex items-center justify-center bg-white dark:bg-slate-900 shadow dark:shadow-gray-700 rounded-md">
-                                        <img src="assets/images/company/facebook-logo.png" class="size-8" alt="">
+                                        <!-- <img src="assets/images/company/facebook-logo.png" class="size-8" alt=""> -->
+                                        <img src="https://cdn.freebiesupply.com/logos/large/2x/airbnb-2-logo-png-transparent.png" class="size-8" alt="">
                                     </div>
 
                                     <div class="ms-3">
@@ -156,7 +157,8 @@
                             <div class="flex items-center justify-between">
                                 <div class="flex items-center">
                                     <div class="size-14 flex items-center justify-center bg-white dark:bg-slate-900 shadow dark:shadow-gray-700 rounded-md">
-                                        <img src="assets/images/company/google-logo.png" class="size-8" alt="">
+                                        <!-- <img src="assets/images/company/google-logo.png" class="size-8" alt=""> -->
+                                        <img src="https://cdn.freebiesupply.com/logos/large/2x/airbnb-2-logo-png-transparent.png" class="size-8" alt="">
                                     </div>
 
                                     <div class="ms-3">
@@ -187,7 +189,8 @@
                             <div class="flex items-center justify-between">
                                 <div class="flex items-center">
                                     <div class="size-14 flex items-center justify-center bg-white dark:bg-slate-900 shadow dark:shadow-gray-700 rounded-md">
-                                        <img src="assets/images/company/android.png" class="size-8" alt="">
+                                        <!-- <img src="assets/images/company/android.png" class="size-8" alt=""> -->
+                                        <img src="https://cdn.freebiesupply.com/logos/large/2x/airbnb-2-logo-png-transparent.png" class="size-8" alt="">
                                     </div>
 
                                     <div class="ms-3">
@@ -218,7 +221,8 @@
                             <div class="flex items-center justify-between">
                                 <div class="flex items-center">
                                     <div class="size-14 flex items-center justify-center bg-white dark:bg-slate-900 shadow dark:shadow-gray-700 rounded-md">
-                                        <img src="assets/images/company/lenovo-logo.png" class="size-8" alt="">
+                                        <!-- <img src="assets/images/company/lenovo-logo.png" class="size-8" alt=""> -->
+                                        <img src="https://cdn.freebiesupply.com/logos/large/2x/airbnb-2-logo-png-transparent.png" class="size-8" alt="">
                                     </div>
 
                                     <div class="ms-3">

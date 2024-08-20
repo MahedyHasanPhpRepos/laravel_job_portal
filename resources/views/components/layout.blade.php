@@ -59,8 +59,6 @@
     {{ $slot }}
 
 
-
-
     <footer class="relative bg-slate-900 dark:bg-slate-800">
         <div class="w-[90%] mt-10 mx-auto">
             <div class="container">
