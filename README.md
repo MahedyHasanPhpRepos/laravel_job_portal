@@ -9,10 +9,10 @@
 
 <p align="center">
     <div>
-        <img src="/public/assets/static_images/job-1.png" alt="Total Downloads">
+        <img src="/public/assets/static_images/job-1.pngg" alt="Total Downloads">
     </div>
     <div>
-        <img src="/public/assets/static_images/job-2.png" alt="Total Downloads">
+        <img src="/public/assets/static_images/job-2.pngg" alt="Total Downloads">
     </div>
 </p>
 
